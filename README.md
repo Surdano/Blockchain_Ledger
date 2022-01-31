@@ -22,7 +22,7 @@ This application was written in Python 3.7 and utilizes the following:
 ---
 ## Installation Guide:
 
-This web application was built with Python 3.7 in VScode. If the User wants to interact with the Streamlit application, first install the following  :
+To run this web application the user must install Streamlit using the following code in the terminal:
 
 ```pip install streamlit```
 
