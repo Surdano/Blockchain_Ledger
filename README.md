@@ -1,7 +1,7 @@
 # Blockchain_Ledger
 ![ScreenShot of a blockchain](https://www.sita.aero/globalassets/images/resources/white-papers/blockchain-graphic-900x600.jpg)
 
-This is a Streamlit web application that gives the user the ability to simulate a blockchain and to visualize it through a dataframe.
+This is a Streamlit web application that gives the user the ability to simulate and validate a blockchain. The simulated blockchain is visualized through a dataframe.
 
 ---
 ## Technologies:
